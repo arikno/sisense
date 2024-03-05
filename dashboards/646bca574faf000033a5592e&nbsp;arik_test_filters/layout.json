@@ -1,0 +1,71 @@
+{
+    "layout": {
+        "columns": [
+            {
+                "cells": [
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": 192,
+                                        "maxHeight": 1028,
+                                        "maxWidth": 1028,
+                                        "minHeight": 64,
+                                        "minWidth": 48,
+                                        "widgetid": "646bca634faf000033a55930"
+                                    }
+                                ],
+                                "index": 0,
+                                "pxlWidth": 335.5,
+                                "stretchable": false,
+                                "width": 50
+                            },
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": 192,
+                                        "maxHeight": 1028,
+                                        "maxWidth": 1028,
+                                        "minHeight": 64,
+                                        "minWidth": 48,
+                                        "widgetid": "646bca684faf000033a55932"
+                                    }
+                                ],
+                                "index": 1,
+                                "pxlWidth": 167.75,
+                                "stretchable": false,
+                                "width": 25
+                            },
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": 192,
+                                        "maxHeight": 1028,
+                                        "maxWidth": 1028,
+                                        "minHeight": 64,
+                                        "minWidth": 48,
+                                        "widgetid": "65e792308b3b89003f3b907b"
+                                    }
+                                ],
+                                "width": 25
+                            }
+                        ]
+                    }
+                ],
+                "index": 0,
+                "pxlWidth": 671,
+                "width": 100
+            }
+        ],
+        "container": {
+        },
+        "instanceid": "A12C5-A052-A0",
+        "type": "columnar"
+    },
+    "previewLayout": [
+    ]
+}

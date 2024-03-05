@@ -1,0 +1,64 @@
+{
+    "allowChangeSubscription": false,
+    "dataExploration": false,
+    "datasource": {
+        "address": "LocalHost",
+        "database": "aSampleIAAaECommerce",
+        "fullname": "localhost/Sample ECommerce",
+        "id": "localhost_aSampleIAAaECommerce",
+        "live": false,
+        "title": "Sample ECommerce"
+    },
+    "desc": "",
+    "filterRelations": [
+    ],
+    "filters": "./filters.json",
+    "hierarchies": [
+    ],
+    "layout": "./layout.json",
+    "oid": "646bca574faf000033a5592e",
+    "script": "./script.js",
+    "settings": {
+        "autoUpdateOnFiltersChange": true
+    },
+    "style": {
+        "palette": {
+            "colors": [
+                "#00cee6",
+                "#9b9bd7",
+                "#6EDA55",
+                "#fc7570",
+                "#fbb755",
+                "#218A8C"
+            ],
+            "name": "Vivid"
+        }
+    },
+    "subscription": {
+        "active": false,
+        "context": {
+            "dashboardid": "646bca574faf000033a5592e"
+        },
+        "emailSettings": {
+            "isEmail": true,
+            "isPdf": false
+        },
+        "executionPerDay": 1,
+        "isDataChange": true,
+        "reportType": {
+            "inline": true
+        },
+        "schedule": "* * * * * *",
+        "startAt": "2024-02-02",
+        "subscribe": false,
+        "timezone": -120,
+        "type": "onUpdate",
+        "tzName": "Asia/Jerusalem"
+    },
+    "title": "arik_test_filters",
+    "widgets": [
+        "./widgets/646bca634faf000033a55930/widget.json",
+        "./widgets/646bca684faf000033a55932/widget.json",
+        "./widgets/65e792308b3b89003f3b907b/widget.json"
+    ]
+}

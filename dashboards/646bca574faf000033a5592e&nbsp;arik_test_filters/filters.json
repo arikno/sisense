@@ -1,0 +1,64 @@
+{
+    "filters": [
+        {
+            "disabled": false,
+            "instanceid": "61177-9B75-DE",
+            "isCascading": false,
+            "jaql": {
+                "collapsed": true,
+                "column": "Date",
+                "datasource": {
+                    "address": "LocalHost",
+                    "database": "aSampleIAAaECommerce",
+                    "fullname": "localhost/Sample ECommerce",
+                    "id": "localhost_aSampleIAAaECommerce",
+                    "live": false,
+                    "title": "Sample ECommerce"
+                },
+                "datatype": "datetime",
+                "dim": "[Commerce.Date (Calendar)]",
+                "filter": {
+                    "explicit": true,
+                    "members": [
+                        "2013-01-01T00:00:00"
+                    ],
+                    "multiSelection": true
+                },
+                "isDashboardFilter": true,
+                "level": "months",
+                "merged": true,
+                "table": "Commerce",
+                "title": "Date"
+            }
+        },
+        {
+            "instanceid": "9F887-D0FA-F1",
+            "isCascading": false,
+            "jaql": {
+                "collapsed": true,
+                "column": "Brand",
+                "datasource": {
+                    "address": "LocalHost",
+                    "database": "aSampleIAAaECommerce",
+                    "fullname": "localhost/Sample ECommerce",
+                    "id": "localhost_aSampleIAAaECommerce",
+                    "live": false,
+                    "title": "Sample ECommerce"
+                },
+                "datatype": "text",
+                "dim": "[Brand.Brand]",
+                "filter": {
+                    "all": true,
+                    "explicit": false,
+                    "multiSelection": true
+                },
+                "firstday": "mon",
+                "isDashboardFilter": true,
+                "locale": "en-us",
+                "merged": true,
+                "table": "Brand",
+                "title": "Brand"
+            }
+        }
+    ]
+}
