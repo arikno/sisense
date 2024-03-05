@@ -59,6 +59,7 @@
     "widgets": [
         "./widgets/646bca634faf000033a55930/widget.json",
         "./widgets/646bca684faf000033a55932/widget.json",
-        "./widgets/65e792308b3b89003f3b907b/widget.json"
+        "./widgets/65e792308b3b89003f3b907b/widget.json",
+        "./widgets/65e792638b3b89003f3b9083/widget.json"
     ]
 }
