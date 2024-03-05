@@ -18,9 +18,23 @@
                                     }
                                 ],
                                 "index": 0,
-                                "pxlWidth": 335.5,
+                                "pxlWidth": 167.75,
                                 "stretchable": false,
-                                "width": 50
+                                "width": 25
+                            },
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": 192,
+                                        "maxHeight": 1028,
+                                        "maxWidth": 1028,
+                                        "minHeight": 64,
+                                        "minWidth": 48,
+                                        "widgetid": "65e792638b3b89003f3b9083"
+                                    }
+                                ],
+                                "width": 25
                             },
                             {
                                 "elements": [
@@ -51,6 +65,9 @@
                                         "widgetid": "65e792308b3b89003f3b907b"
                                     }
                                 ],
+                                "index": 2,
+                                "pxlWidth": 167.75,
+                                "stretchable": false,
                                 "width": 25
                             }
                         ]
